@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/mithunbhandary/test/Simple_I2C/Verilog/i2c_controller_tb.v,1736508104,verilog,,,,i2c_controller_tb,,,,,,,,
+/home/mithunbhandary/test/Simple_I2C/Verilog/i2c_slave_controller.v,1736505825,verilog,,/home/mithunbhandary/test/Simple_I2C/Verilog/i2c_controller_tb.v,,i2c_slave_controller,,,,,,,,
+/home/mithunbhandary/test/i2c/i2c.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+/home/mithunbhandary/test/i2c/i2c.srcs/sources_1/new/i2c_controller.v,1736506673,verilog,,/home/mithunbhandary/test/Simple_I2C/Verilog/i2c_slave_controller.v,,i2c_controller,,,,,,,,
